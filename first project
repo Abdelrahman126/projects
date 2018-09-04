@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>project2experience</title>
+        <link rel="stylesheet" href="css/project2.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/fontawesome.min.css">
+    </head>
+    <body>
+        <!-- start header -->
+        <div class="header">
+            <div class="slider">
+                <div class="container">
+                    <a href="#">Sing Up |</a>
+                    <a href="#">Login |</a>
+                    <a href="#">RSS Feeds |</a>
+                    <a href="#">Archieved News</a>
+                    <input type="text">
+                </div>
+            </div>
+            <div class="headline">
+                <div class="container">
+                    <div class="heading">
+                        <h1>systematic</h1>
+                        <p>free <span>psd</span> website template</p>
+                    </div>
+                    <ul>
+                        <li><a href="#"><img src="http://1.bp.blogspot.com/-6W44Qq_a56o/VoEqMwqviZI/AAAAAAAAAiM/AK39TA1ER7I/s1600/facebook29.png"></a></li>
+                        <li><a href="#"><img src="http://3.bp.blogspot.com/-Vn6cilwu2dk/VoErEOFHHcI/AAAAAAAAAiU/cW8GDK4yqkQ/s1600/twitter47.png"></a></li>
+                        <li><a href="#"><img src="http://1.bp.blogspot.com/-JdWv34CCCOk/VoErzfrX-rI/AAAAAAAAAik/VB6ZQyStQpc/s1600/google2.png"></a></li>
+                        <li><a href="#"><img src="http://cdn1.iconfinder.com/data/icons/free-mobile-icon-kit/32/Wireless_signal.png"></a></li>
+                        <li><a href="#"><img src="http://2.bp.blogspot.com/-Z_Zx3PovAqc/VoEsw3rp2WI/AAAAAAAAAi0/igZvNDg2Qls/s1600/logotype46.png"></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="container">
+                <div class="navbar">
+                    <a href="#">homepage</a>
+                    <a href="#">style demo</a>
+                    <a href="#">full width</a>
+                    <a href="#">dropdown</a>
+                    <a href="#">gallery</a>
+                    <a href="#">portfolio</a>
+                    <a href="#">link text</a>
+                    <a href="#">long link text</a>
+                </div>
+            </div>
+        </div>
+        <!-- end header -->
+        <!-- start features -->
+        <div class="features">
+            <div class="container">
+                <img src="https://shortcut-test2.s3.amazonaws.com/uploads/project/attachment/26688/default_Detective-Conan-Detective-Conan-wallpaper-615x500.jpg">
+                <div class="info">
+                    <h1>a huge</h1>
+                    <h1>title here</h1>
+                    <p>this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying</p>
+                    <a href="#">read more>></a>
+                </div>
+            </div>
+        </div>
+        <!-- end features -->
+        <div class="clearfix"></div>
+        <!-- start cell -->
+        <div class="cell">
+            <div class="container">
+                <div class="main">
+                    <h1>a little about us</h1>
+                    <img src="https://ic.pics.livejournal.com/iconstorage3/23819020/1346614/1346614_original.jpg">
+                    <p>i am abdelrahman hello everybody hbhjzbs jksvjbx jks;kda jshk;ew uodjksa; w;rhjeieo eofejjig ffpojs'je opdnvsp pvdjipfwemt ;pdoso ;pdjpds0rem pdkdopgmld; [dkopdsms; odp; p;ogkopskpog skljdsaj sipjdas </p>
+                    <p>this is just trying this is just trying this is just trying this is just trying this is just trying this is just trying sjkhs sjhskj jskhs</p>
+                    <a href="#">read more about us>></a>
+                </div>
+                <div class="main">
+                    <h1>some of our services</h1>
+                    <div class="topic">
+                        <img src="https://static.getjar.com/icon-50x50/20/818396_thm.jpg">
+                        <div class="in">
+                            <h3>service name</h3>
+                            <p>this is just a try this is just a try this is just a tryyyyyyyyyyyy</p>
+                        </div>
+                    </div>
+                    <div class="topic">
+                        <img src="https://static.getjar.com/icon-50x50/23/818389_thm.jpg">
+                        <div class="in">
+                            <h3>service name</h3>
+                            <p>this is just a try this is just a try this is just a tryyyyyyyyyyyy</p>
+                        </div>
+                    </div>
+                    <div class="topic">
+                        <img src="https://static.getjar.com/icon-50x50/9b/773690_thm.jpg">
+                        <div class="in">
+                            <h3>service name</h3>
+                            <p>this is just a try this is just a try this is just a tryyyyyyyyyyyy</p>
+                        </div>
+                    </div>
+                    <div class="topic">
+                        <img src="https://static.getjar.com/icon-50x50/2a/818395_thm.jpg">
+                        <div class="in">
+                            <h3>service name</h3>
+                            <p>this is just a try this is just a try this is just a tryyyyyyyyyyyy</p>
+                        </div>
+                    </div>
+                    <a href="#">view all of our sources>></a>
+                </div>
+                <div class="main">
+                        <h1>what our clients say</h1>
+                        <div class="small-main">
+                        <h3>&nbsp; &nbsp; &nbsp; &nbsp; tommy tanker <span>- ceo</span></h3>
+                        <p>i am abdelrahman hello everybody by allah's mercy i will be the greatest web designer.cell .main a kdfdlk ksjhfsll ljldhgjk kfjl hbhjzbs jksvjbx jks;kda jshk;ew uodjksa; [dkopdsms; odp; p;ogkopskpog skljdsaj sipjdas </p>
+                        <a href="#">view this project>></a>
+                    </div>
+                    <div class="clearfix"></div>
+                     <div class="small-main">
+                        <h3>&nbsp; &nbsp; &nbsp; &nbsp; tommy tanker <span>- ceo</span></h3>
+                        <p>i am abdelrahman hello everybody by allah's mercy i will be the greatest web designer .cell .main a kdfdlk ksjhfsll ljldhgjk kfjl hbhjzbs jksvjbx jks;kda jshk;ew uodjksa; [dkopdsms; odp; p;ogkopskpog skljdsaj sipjdas </p>
+                        <a href="#">view this project>></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end cell -->
+        <!-- start links -->
+        <div class="links">
+            <div class="container">
+                <div class="latest">
+                    <hr>
+                    <h3>latest tweets</h3>
+                    <p class="special"><span>@allmight </span> i am abdelrahman hello everybody by allah's mercy i will be the greatest web designer .cell .main a kdfdlk ksjhfsll ljldhgjk kfjl i am abdelrahman.</p>
+                    <p><span>@allmight </span> i am abdelrahman hello everybody by allah's mercy i will be the greatest web designer .cell .main a kdfdlk ksjhfsll ljldhgjk kfjl i am abdelrahman.</p>
+                </div>
+                <div class="latest">
+                    <hr>
+                    <h3>latest tweets</h3>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                    <p>>> hello it's me</p>
+                    <hr>
+                </div>
+                <div class="latest">
+                    <hr>
+                    <h3>latest blog posts</h3>
+                    <div class="late">
+                        <h4>post title</h4>
+                        <span><span>Amin</span>,domainname.com</span>
+                        <span>friday,6th april 2000</span>
+                        <p>kjssjkfsh hkhdsjkfhjk slkhsk jkshjksf kshsuf lkjsihfsi ljsifhsi lkjslhsiofhl lsijfsoih</p>
+                        <a href="#">Read More>></a>
+                    </div>
+                    <div class="late">
+                        <h4>post title</h4>
+                        <span><span>Admin</span>,domainname.com</span>
+                        <span>friday,6th april 2000</span>
+                        <p>kjssjkfsh hkhdsjkfhjk slkhsk jkshjksf kshsuf lkjsihfsi ljsifhsi lkjslhsiofhl lsijfsoih</p>
+                        <a href="#">Read More>></a>
+                    </div>
+                </div>
+                <div class="latest">
+                    <hr>
+                    <h3>contact us</h3>
+                    <input type="text" placeholder="Name">
+                    <input type="text" placeholder="Email">
+                    <input type="text" placeholder="subject">
+                    <textarea placeholder="Message"></textarea>
+                    <button>submit</button>
+                </div>
+            </div>
+        </div>
+        <!-- end links -->
+        <!-- start footer -->
+        <div class="clearfix"></div>
+        <div class="footer">
+            <div class="container">
+                <p>copyright &copy; 2013 domain name - all rights reserved</p>
+                <p>template by <span>os</span> templates</p>
+            </div>
+        </div>
+        <!-- end footer -->
+    </body>
+</html>
